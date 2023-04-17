@@ -5,10 +5,7 @@ Maura Diviarani  (1201406)
 
 Aplikasi Hiling.id Version 2 ini menerapkan konsep redux thunk, redux saga, dan menggunakan API IP
 ```
-
-```
 ## Installation
-prttama lakukan
 ```
 yarn install
 ```
@@ -33,4 +30,6 @@ or
 npm start
 ```
 Kemudian scan barcode menggunakan aplikasi EXPO GO yang telah terinstall
+```
+
 
